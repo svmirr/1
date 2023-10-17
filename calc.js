@@ -88,6 +88,11 @@ function calcul_moyenne()
     alert("Le Nombre Est Impaire")
     }
   }   
+  function permuter()
+{
+    var v3 = "";
+    a = document.getElementById()
+}
         
     
      
