@@ -91,7 +91,13 @@ function calcul_moyenne()
   function permuter()
 {
     var v3 = "";
-    a = document.getElementById()
+    a = document.getElementById("T1").value;
+    b = document.getElementById("T2").value;
+    v3 = a;
+    a = b;
+    b = v3;
+    T1.value = a;
+    T2.value = b;
 }
         
     
